@@ -1,0 +1,2 @@
+# Retail-Landscape-The-Brazilian-Shopping-Center-Profile-2024-2025
+Este projeto propõe a criação de um agente de IA no NotebookLM, especializado no setor de Shopping Centers no Brasil. O agente utiliza como base o relatório “Perfil do Setor de Shopping Centers 2024/2025”, da Abrasce - Associação Brasileira de Shoppings Centers, reunindo dados como vendas, ABL, fluxo de visitantes, empregos, número de lojas.
